@@ -1,0 +1,21 @@
+body{
+    background-image: url(../resources/f.jpg);
+background-position: center;
+background-size: cover;
+}
+
+h1{
+    color: rgb(0, 0, 0);
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+fieldset{
+    background:linear-gradient(to top,lightsalmon,white);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#sub1{
+    background-color:green; color: black;
+}
+
